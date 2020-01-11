@@ -8,7 +8,7 @@
 ## ポートフォリオ
 
 - [プログラミングスクール口コミサイト Escola](https://www.escola-pro.com/about_escola)
-- [ゴルフ場検索サイト らくらくゴルフ](https://www.rakuraku-golf.com/)
+- [ゴルフ場検索サイト らくらくゴルフ](https://www.rakuraku-golf.com/)（フロント担当）
 
 ## Blog
 
